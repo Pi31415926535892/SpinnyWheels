@@ -75,13 +75,13 @@ Main Object
 
 ## Settings
 
-| Setting | Description |
-|---|---|
-| Enabled | Turns the system on/off |
-| Main Object | Root object containing caster pivots |
-| Wheel Radius | Controls wheel spin speed |
-| Smoothing | Controls steering smoothness |
-| Min Distance | Minimum movement before updating |
+| Setting | Description | Use | Tips |
+|---|---|---|---|
+| Enabled | Turns the system on/off | - | - |
+| Main Object | Root object containing caster pivots | To change rig object | - |
+| Wheel Radius | Controls wheel spin speed | - | Set to the half the height of your wheel object |
+| Smoothing | Controls steering smoothness | To prevent jittering | Try 8-10 to start with |
+| Min Distance | Minimum movement before updating | To prevent tiny movements from moving the wheels | Try setting same as or slightly less than Wheel Radius |
 
 ---
 
@@ -91,8 +91,7 @@ Main Object
 - Industrial robots
 - Warehouse vehicles
 - Office chairs
-- Sci-fi rovers
-- Physics animation helpers
+- Furniture with wheels
 
 ---
 
