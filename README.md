@@ -2,9 +2,6 @@
 
 **SpinnyWheels** is a lightweight procedural caster wheel animation add-on for Blender.  
 It automatically rotates and steers caster wheels based on object movement, making it useful for carts, robots, furniture, trolleys, sci-fi vehicles, and other wheeled rigs.
-
-Created by Raghav D. Gautam
-
 ---
 
 ## Features
