@@ -101,6 +101,8 @@ Main Object
 - The main object can only have casters as children, any non-caster children will also be treated as casters.
 - Multiple rigs cannot be made.
 
+Please report any other bugs in the "Issues" page on GitHub.
+
 ---
 
 ## Version
