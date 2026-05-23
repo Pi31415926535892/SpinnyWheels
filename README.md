@@ -25,14 +25,14 @@ It automatically rotates and steers caster wheels based on object movement, maki
 
 ## Installation
 
-1. Download the `SpinnyWheel.zip` file
+1. Download the `SpinnyWheels.zip` file
 2. Open Blender
 3. Go to:
 
    `Edit → Preferences → Add-ons`
 
 4. Click **Install**
-5. Select `SpinnyWheel.zip`
+5. Select `SpinnyWheels.zip`
 6. Enable **SpinnyWheels - Procedural Caster Animation**
 
 ---
