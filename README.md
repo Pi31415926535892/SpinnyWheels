@@ -97,7 +97,6 @@ Main Object
 
 ## Limitations/Known Bugs
 
-- Addon sometimes freezes when quitting and re-opening Blender. Fix: Go to Edit -> Prefrences -> Addons, Search for SpinnyWheels and disable, then enable again.
 - The main object can only have casters as children, any non-caster children will also be treated as casters.
 - Multiple rigs cannot be made.
 
@@ -107,7 +106,7 @@ Please report any other bugs in the "Issues" page on GitHub.
 
 ## Version
 
-**v0.1.0-alpha**
+**v0.1.1-alpha**
 
 ---
 
