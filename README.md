@@ -5,6 +5,12 @@
 It automatically rotates and steers caster wheels based on object movement, making it useful for carts, robots, furniture, trolleys, sci-fi vehicles, and other wheeled rigs.
 ---
 
+## Tutorials
+
+YouTube tutorial link: [https://www.youtube.com/watch?v=l9Bx9UwLWlw](https://www.youtube.com/watch?v=l9Bx9UwLWlw)
+
+---
+
 ## Features
 
 - Automatic caster steering
